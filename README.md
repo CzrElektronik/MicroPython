@@ -1,0 +1,2 @@
+# MicroPython
+MicroPython ile ilgili 
